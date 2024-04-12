@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\MainController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MainController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\BikeStoresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\Controllers\\BikeStoresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\Join3TableDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\DTO\\Join3TableDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ReportDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\DTO\\ReportDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\CreateBrandDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\DTO\\CreateBrandDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\Join2TableDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\DTO\\Join2TableDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\Controllers\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\Model\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ProductDtoMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\Controllers\\ProductDtoMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\Model\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ProductDTO3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\DTO\\ProductDTO3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\BikestoresDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\DTO\\BikestoresDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240314_1first\\20240314_1first\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\MainController.cs",
+              "RelativeDocumentMoniker": "MainController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\MainController.cs [Read Only]",
+              "RelativeToolTip": "MainController.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:15:06.787Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerateResult.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:26:00.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Join2TableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\Join2TableDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\DTO\\Join2TableDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\Join2TableDTO.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\DTO\\Join2TableDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:38:03.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBrandDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\CreateBrandDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\DTO\\CreateBrandDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\CreateBrandDTO.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\DTO\\CreateBrandDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:34:15.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Result.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\Controllers\\Result.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Result.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\Controllers\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:34:10.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ReportDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\DTO\\ReportDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ReportDTO.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\DTO\\ReportDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:33:29.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Join3TableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\Join3TableDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\DTO\\Join3TableDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\Join3TableDTO.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\DTO\\Join3TableDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:32:55.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\Model\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\OrderItem.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\Model\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:04:14.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDtoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ProductDtoMapper.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\Controllers\\ProductDtoMapper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ProductDtoMapper.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\Controllers\\ProductDtoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:54:59.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Order.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\Model\\Order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:53:00.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MainController.cs",
+              "RelativeDocumentMoniker": "..\\..\\MainController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MainController.cs",
+              "RelativeToolTip": "..\\..\\MainController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:40:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDTO3.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ProductDTO3.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\DTO\\ProductDTO3.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ProductDTO3.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\DTO\\ProductDTO3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:35:49.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BikestoresDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\BikestoresDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\DTO\\BikestoresDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\BikestoresDTO.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\DTO\\BikestoresDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:39:23.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BikeStoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\BikeStoresController.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\Controllers\\BikeStoresController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\BikeStoresController.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\Controllers\\BikeStoresController.cs",
+              "ViewState": "AQIAAPoAAAAAAAAAAAAAAA8BAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:27:15.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Program.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Program.cs",
+              "RelativeToolTip": "20240314_1first\\20240314_1first\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:27:13.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

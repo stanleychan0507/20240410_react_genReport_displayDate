@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "_20240314_1first.Controllers.BikeStoresController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/BikeStores/CreateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productFromBody",
+        "Type": "_20240314_1first.DTO.CreateProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_20240314_1first.Controllers.BikeStoresController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/BikeStores/DeleteProduct",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_20240314_1first.Controllers.BikeStoresController",
+    "Method": "GetProductByBrand",
+    "RelativePath": "api/BikeStores/GetProductByBrand/ProductBrand",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[_20240314_1first.DTO.Join2TableDTO, 20240314_1first, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_20240314_1first.Controllers.BikeStoresController",
+    "Method": "Join2Table",
+    "RelativePath": "api/BikeStores/Join2Table/Join2Table",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[_20240314_1first.DTO.Join2TableDTO, 20240314_1first, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_20240314_1first.Controllers.BikeStoresController",
+    "Method": "Join3Table",
+    "RelativePath": "api/BikeStores/Join3Table/Join3Table",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[_20240314_1first.DTO.Join2TableDTO, 20240314_1first, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_20240314_1first.Controllers.BikeStoresController",
+    "Method": "UpdateProductName",
+    "RelativePath": "api/BikeStores/UpdateProductName",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "productMap",
+        "Type": "_20240314_1first.DTO.Join3TableDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[_20240314_1first.DTO.Join3TableDTO, 20240314_1first, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,596 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\controllers\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\controllers\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\controllers\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\controllers\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\MainController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\controllers\\bikestorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\controllers\\bikestorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\controllers\\generateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\controllers\\generateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\controllers\\learning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\controllers\\learning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\model\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\model\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\controllers\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\controllers\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\controllers\\productdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\controllers\\productdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\controllers\\reportdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\controllers\\reportdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\dto\\ireportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\dto\\ireportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\dto\\join2tabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\dto\\join2tabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\dto\\reportcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\dto\\reportcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\dto\\reportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\dto\\reportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\dto\\reportbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\dto\\reportbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\model\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\model\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\dto\\createbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\dto\\createbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\dto\\join3tabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\dto\\join3tabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\VSGeneratedDocuments\\63d5ee72-c5d5-1dea-a6c0-af3aab0c7867\\ProductDtoMapper.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\VSGeneratedDocuments\\b9b52177-ec8d-c6c7-31bf-d4805d219411\\ProductDtoMapper.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1C8C8E-2AA8-482E-86C4-DB3669582D81}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7F1C8C8E-2AA8-482E-86C4-DB3669582D81}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\model\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\model\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\model\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\model\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1C8C8E-2AA8-482E-86C4-DB3669582D81}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1C8C8E-2AA8-482E-86C4-DB3669582D81}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1C8C8E-2AA8-482E-86C4-DB3669582D81}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1C8C8E-2AA8-482E-86C4-DB3669582D81}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240314_1first\\20240314_1first\\20240314_1first\\20240314_1first.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{363FF6F6-B0B8-4507-9778-D49264A1716F}|20240314_1first\\20240314_1first.csproj|solutionrelative:20240314_1first\\20240314_1first.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 167,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Learning.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Learning.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Controllers\\Learning.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Learning.cs",
+              "RelativeToolTip": "20240314_1first\\Controllers\\Learning.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:49:55.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IReportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\IReportDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\DTO\\IReportDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\IReportDTO.cs",
+              "RelativeToolTip": "20240314_1first\\DTO\\IReportDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:56.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerateResult.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Controllers\\GenerateResult.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs",
+              "RelativeToolTip": "20240314_1first\\Controllers\\GenerateResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:10:04.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ReportCategoryDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\DTO\\ReportCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ReportCategoryDTO.cs",
+              "RelativeToolTip": "20240314_1first\\DTO\\ReportCategoryDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:41:52.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportBrandDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ReportBrandDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\DTO\\ReportBrandDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ReportBrandDTO.cs",
+              "RelativeToolTip": "20240314_1first\\DTO\\ReportBrandDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:41:40.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ReportProductDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\DTO\\ReportProductDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\ReportProductDTO.cs",
+              "RelativeToolTip": "20240314_1first\\DTO\\ReportProductDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA9wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:41:17.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ReportDetail.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Controllers\\ReportDetail.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ReportDetail.cs",
+              "RelativeToolTip": "20240314_1first\\Controllers\\ReportDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T03:54:42.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Report.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Controllers\\Report.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Report.cs",
+              "RelativeToolTip": "20240314_1first\\Controllers\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T03:53:46.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\MainController.cs",
+              "RelativeDocumentMoniker": "..\\MainController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\MainController.cs",
+              "RelativeToolTip": "..\\MainController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAAJgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:47:17.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BikeStoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\BikeStoresController.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Controllers\\BikeStoresController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\BikeStoresController.cs",
+              "RelativeToolTip": "20240314_1first\\Controllers\\BikeStoresController.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAAAAwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:29:57.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\appsettings.json",
+              "RelativeDocumentMoniker": "20240314_1first\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\appsettings.json",
+              "RelativeToolTip": "20240314_1first\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T07:50:43.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateBrandDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\CreateBrandDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\DTO\\CreateBrandDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\CreateBrandDTO.cs",
+              "RelativeToolTip": "20240314_1first\\DTO\\CreateBrandDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:15:49.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeToolTip": "ConsoleApp1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-19T03:48:49.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "20240314_1first\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Properties\\launchSettings.json",
+              "RelativeToolTip": "20240314_1first\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T03:09:04.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDtoMapper.g.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\VSGeneratedDocuments\\63d5ee72-c5d5-1dea-a6c0-af3aab0c7867\\ProductDtoMapper.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\VSGeneratedDocuments\\63d5ee72-c5d5-1dea-a6c0-af3aab0c7867\\ProductDtoMapper.g.cs",
+              "ToolTip": "ProductDtoMapper.g.cs [generated by Riok.Mapperly.MapperGenerator]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "ProductDtoMapper.g.cs [generated by Riok.Mapperly.MapperGenerator]",
+              "WhenOpened": "2024-03-19T02:22:04.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductDtoMapper.g.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\VSGeneratedDocuments\\b9b52177-ec8d-c6c7-31bf-d4805d219411\\ProductDtoMapper.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\VSGeneratedDocuments\\b9b52177-ec8d-c6c7-31bf-d4805d219411\\ProductDtoMapper.g.cs",
+              "ToolTip": "ProductDtoMapper.g.cs [generated by Riok.Mapperly.MapperGenerator]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "ProductDtoMapper.g.cs [generated by Riok.Mapperly.MapperGenerator]",
+              "WhenOpened": "2024-03-18T09:54:27.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDtoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ProductDtoMapper.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Controllers\\ProductDtoMapper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ProductDtoMapper.cs",
+              "RelativeToolTip": "20240314_1first\\Controllers\\ProductDtoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:51:33.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\DTO\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\CreateProductDTO.cs",
+              "RelativeToolTip": "20240314_1first\\DTO\\CreateProductDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:49:41.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Method.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Method.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Controllers\\Method.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Method.cs",
+              "RelativeToolTip": "20240314_1first\\Controllers\\Method.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:33:09.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Join3TableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\Join3TableDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\DTO\\Join3TableDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\Join3TableDTO.cs",
+              "RelativeToolTip": "20240314_1first\\DTO\\Join3TableDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:37:15.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Result.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Controllers\\Result.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\Result.cs",
+              "RelativeToolTip": "20240314_1first\\Controllers\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:16:15.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Staff.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Model\\Staff.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Staff.cs",
+              "RelativeToolTip": "20240314_1first\\Model\\Staff.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T08:49:47.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Stock.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Model\\Stock.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Stock.cs",
+              "RelativeToolTip": "20240314_1first\\Model\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:12:18.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Join2TableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\Join2TableDTO.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\DTO\\Join2TableDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\Join2TableDTO.cs",
+              "RelativeToolTip": "20240314_1first\\DTO\\Join2TableDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:19:43.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Store.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Model\\Store.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Store.cs",
+              "RelativeToolTip": "20240314_1first\\Model\\Store.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAEBTwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:00:31.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Product.cs",
+              "RelativeToolTip": "20240314_1first\\Model\\Product.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:00:30.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Order.cs",
+              "RelativeToolTip": "20240314_1first\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:00:30.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Brand.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Model\\Brand.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Brand.cs",
+              "RelativeToolTip": "20240314_1first\\Model\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:00:28.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\ConsoleApp1\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\ConsoleApp1\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:19:45.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:19:20.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Model\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\OrderItem.cs",
+              "RelativeToolTip": "20240314_1first\\Model\\OrderItem.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:53:00.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Category.cs",
+              "RelativeToolTip": "20240314_1first\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:52:58.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\Customer.cs",
+              "RelativeToolTip": "20240314_1first\\Model\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:52:55.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BikestoresContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\BikestoresContext.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Model\\BikestoresContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Model\\BikestoresContext.cs",
+              "RelativeToolTip": "20240314_1first\\Model\\BikestoresContext.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:29:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Program.cs",
+              "RelativeDocumentMoniker": "20240314_1first\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Program.cs",
+              "RelativeToolTip": "20240314_1first\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:39:55.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240314_1first.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\20240314_1first.csproj",
+              "RelativeDocumentMoniker": "20240314_1first\\20240314_1first.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\20240314_1first.csproj",
+              "RelativeToolTip": "20240314_1first\\20240314_1first.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T09:39:25.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
